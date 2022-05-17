@@ -1,0 +1,136 @@
+Uri: https://api.mapbox.com/mapbox-gl-js/v0.54.0/mapbox-gl.css
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\mapbox-gl-js\v0.54.0\mapbox-gl.css
+Content Type: text/css
+
+Uri: https://api.mapbox.com/mapbox-gl-js/v0.54.0/mapbox-gl.js
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\mapbox-gl-js\v0.54.0\mapbox-gl.js
+Content Type: application/javascript
+
+Uri: https://assets.emergepay.chargeitpro.com/cip-hosted-url.js
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\cip-hosted-url.js
+Content Type: application/javascript
+
+Uri: https://cdn.checkout.com/js/framesv2.min.js
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\js\framesv2.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.polyfills.io/v2/polyfill.min.js?features=Intl.~locale.en-AU
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\v2\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://code.jquery.com/jquery-3.5.1.min.js
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\jquery-3.5.1.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Heebo:100,300,regular,500,700,800,900
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Libre Baskerville:regular,italic,700
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/heebo/v20/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmj.ttf
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\s\heebo\v20\NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v20/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmj.ttf
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\s\heebo\v20\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v20/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmj.ttf
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\s\heebo\v20\NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v20/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICusdUmj.ttf
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\s\heebo\v20\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICusdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v20/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmj.ttf
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\s\heebo\v20\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v20/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\s\heebo\v20\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v20/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmj.ttf
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\s\heebo\v20\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librebaskerville/v14/kmKhZrc3Hgbbcjq75U4uslyuy4kn0qNcWxEQCQ.ttf
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\s\librebaskerville\v14\kmKhZrc3Hgbbcjq75U4uslyuy4kn0qNcWxEQCQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librebaskerville/v14/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcU.ttf
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\s\librebaskerville\v14\kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librebaskerville/v14/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNZaxY.ttf
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\s\librebaskerville\v14\kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNZaxY.ttf
+Content Type: font/ttf
+
+Uri: https://geo-targetly.com/geolocation?id=-LmPAwNYDW-KdLZGoGKA
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\geolocation
+Content Type: application/javascript
+
+Uri: https://js.stripe.com/v3/
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\v3\index.htm
+Content Type: application/javascript
+
+Uri: https://jstest.authorize.net/v1/Accept.js
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\v1\Accept.js
+Content Type: application/javascript
+
+Uri: https://order.thaipothong.com.au/
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\index.htm
+Content Type: text/html
+
+Uri: https://stores-cdn.cloudwaitress.com/flags_responsive.png
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\flags_responsive.png
+Content Type: image/png
+
+Uri: https://stores-cdn.cloudwaitress.com/main.790700f8f19bc9b13a05.css
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\main.790700f8f19bc9b13a05.css
+Content Type: text/css
+
+Uri: https://stores-cdn.cloudwaitress.com/main.8411099c5e1631c0fdc4.js
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\main.8411099c5e1631c0fdc4.js
+Content Type: application/javascript
+
+Uri: https://stores-cdn.cloudwaitress.com/reset.css
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\reset.css
+Content Type: text/css
+
+Uri: https://stores-cdn.cloudwaitress.com/restaurant-icons-1.eot
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\restaurant-icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stores-cdn.cloudwaitress.com/restaurant-icons-1.svg
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\restaurant-icons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://stores-cdn.cloudwaitress.com/restaurant-icons-1.ttf
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\restaurant-icons-1.ttf
+Content Type: font/ttf
+
+Uri: https://stores-cdn.cloudwaitress.com/restaurant-icons-1.woff
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\restaurant-icons-1.woff
+Content Type: font/woff
+
+Uri: https://stores-cdn.cloudwaitress.com/restaurant-icons-1.woff2
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\restaurant-icons-1.woff2
+Content Type: font/woff2
+
+Uri: https://stores-cdn.cloudwaitress.com/runtime.7d33acd2d581bce0ea28.js
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\runtime.7d33acd2d581bce0ea28.js
+Content Type: application/javascript
+
+Uri: https://stores-cdn.cloudwaitress.com/svg-with-js.css
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\svg-with-js.css
+Content Type: text/css
+
+Uri: https://stores-cdn.cloudwaitress.com/vendors.0292ee9e74d443c9cb22.js
+File Name: C:\Downloaded Web Sites\order.thaipothong.com.au\vendors.0292ee9e74d443c9cb22.js
+Content Type: application/javascript
+
